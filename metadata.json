@@ -1,0 +1,7 @@
+{
+  "name": "NeonVoice: AI Holographic Agent",
+  "description": "A futuristic, holographic AI voice agent platform. Create custom personas and interact in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
